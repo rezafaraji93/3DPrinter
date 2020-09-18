@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545739036345",
+    "firebase_url": "https://dprinter-5bdcb.firebaseio.com",
+    "project_id": "dprinter-5bdcb",
+    "storage_bucket": "dprinter-5bdcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545739036345:android:3467ab416b415a2264ad68",
+        "android_client_info": {
+          "package_name": "faraji.ir.a3dprinter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545739036345-er6v68e4ph2qtp94iptshlt460a76ecl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqG-pMoF-Da4CmpkUJNfcJMESxkz4UrUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545739036345-er6v68e4ph2qtp94iptshlt460a76ecl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">3DPrinter</string>
+    <string name="welcome">Welcome</string>
+    <string name="userNameHintText">Email or Phone Number</string>
+    <string name="passwordHint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="loginButton">Login</string>
+    <string name="signUp">Sign up</string>
+    <string name="usernameImageDescription">username</string>
+    <string name="passwordimagedescription">Password Image</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_account">Create Account</string>
+    <string name="enterEmail">Email</string>
+    <string name="enterPassword">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="enterFirstName">First Name</string>
+    <string name="enterLastName">Last Name</string>
+    <string name="enterCountry">Country</string>
+    <string name="enterPhoneNumber">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="enter_information">Please enter your information</string>
+    <string name="printerOwner">Printer Owner</string>
+    <string name="customer">Customer</string>
+    <string name="userType">User Type:</string>
+</resources>
